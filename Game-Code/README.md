@@ -1,5 +1,4 @@
 # Digital-Assassin-Games
-Welcome to the repository containing three classic games: Rock-Paper-Scissors, Bomb-Building-Gun, and Snake-Water-Gun! This collection brings together timeless games with unique twists, offering an exciting gaming experience. Whether you're here to play, contribute, or explore the source code, we're thrilled to have you.
 
 ## About the Games
 
